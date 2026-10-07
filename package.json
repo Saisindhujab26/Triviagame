@@ -1,0 +1,9 @@
+{
+  "name": "trivia-battle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real-time multiplayer Trivia Battle game",
+  "scripts": {
+    "start": "python3 server.py"
+  }
+}
